@@ -1,0 +1,5 @@
+password.json
+*js
+*js.map
+node_modules/
+.idea/

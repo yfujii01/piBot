@@ -1,0 +1,8 @@
+{
+  "name": "piBot",
+  "version": "0.0.1",
+  "dependencies": {
+    "botkit": "^0.6.14",
+    "tslint-config-airbnb": "^5.9.2"
+  }
+}
